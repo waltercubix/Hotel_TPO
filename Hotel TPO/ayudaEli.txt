@@ -1,0 +1,25 @@
+
+Para eliminar un registro elija la opcion 3 del menu principal.
+Una vez ingresado se visualizara la tabla con la informacion de los clientes dados de alta.
+Debajo de la tabla tendra un menu de seleccion similar al que ve a continuacion. Para 
+cancelar la operacion y regresar al menu principal, ingrese opcion 0.
+
+--------------------------------------------------------------------------------------------
+ < 1 MODIFICAR REGISTRO >   < 2 ELIMINAR REGISTRO >  |  OPCION: _
+--------------------------------------------------------------------------------------------
+
+Elija la opcion 2 presionando la tecla 2 y luego presione enter para eliminar un registro.
+Debera ingresar el numero de DNI correspondiente al cliente que quiere eliminar.
+De no existir el archivo, un mensaje en pantalla le dara el aviso. (Cod. Error 5).
+Si el registro existe el programa pedira su confirmacion con el siguiente menu de seleccion.
+
+--------------------------------------------------------------------------------------------
+ < CONFIRMAR ELIMINACION >   < 1 SI >    < 2 NO >   | OPCION: _
+--------------------------------------------------------------------------------------------
+
+Al presionar la tecla 1 el registro se habra eliminado luego de la confirmacion. Sin embargo
+existe la posibilidad de que haya borrado un registro por equivocacion. Puede recuperar el 
+registro en el menu de recupero. >> [Presione SHIFT+R] << en el menu principal para leer mas
+sobre recuperacion de datos o acceda desde el menu de ayuda.
+
+                      >> [Presione ESC para volver al menu principal] <<

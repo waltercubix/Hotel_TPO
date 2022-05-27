@@ -1,0 +1,16 @@
+ Microsoft Windows, commonly referred to as Windows, is a group of several
+	proprietary graphical operating system families, all of which are developed
+	and marketed by MiEach family caters to a certain sector of the computing 
+	industry.
+
+
+	Active Microsoft Windows families include Windows NT and Windows IoT; these may
+	encompass subfamilies, (e.g. Windows Server or Windows Embedded Compact)
+	(Windows CE). Defunct Microsoft Windows families include Windows 9x,
+	Windows Mobile and Windows Phone.
+
+	
+
+
+
+	

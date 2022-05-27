@@ -1,0 +1,25 @@
+
+Para modificar un registro elija la opcion 3 presionando la tecla 3 del menu principal. 
+Una vez ingresado se visualizara la tabla con la informacion de los clientes dados de alta.
+Debajo de la tabla tendra un menu de seleccion similar al que ve a continuacion. Para 
+cancelar la operacion y regresar al menu principal, ingrese opcion 0.
+
+--------------------------------------------------------------------------------------------
+ < 1 MODIFICAR REGISTRO >   < 2 ELIMINAR REGISTRO >  |  OPCION: _
+--------------------------------------------------------------------------------------------
+
+Elija la opcion 1 presionando la tecla 1 y luego presione enter para modificar un registro. 
+Debera ingresar el numero de DNI correspondiente al cliente que quiere modificar.
+De no existir el archivo, un mensaje en pantalla le dara el aviso. (Cod. Error 5).
+Si el registro existe, podra elegir que campo quiere modificar con el menu de seleccion.
+
+--------------------------------------------------------------------------------------------
+  < 1 NOMBRE >  < 2 APELLIDO >  < 3 DNI >  < 4 DIRECCION >  < 5 ESTADO >  |  OPCION: _
+--------------------------------------------------------------------------------------------
+
+Presione las teclas del 1 hasta el 5 para modificar un campo especifico del registro. 
+Una vez seleccionado el campo se le mostrara en pantalla el valor actual del campo
+como referencia y debera de ingresar el nuevo dato a grabar. Presione enter para 
+guardar el nuevo registro y luego ESC para regresar al menu principal. 
+
+                      >> [Presione ESC para volver al menu principal] <<

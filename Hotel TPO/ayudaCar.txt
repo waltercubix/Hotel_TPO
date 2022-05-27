@@ -1,0 +1,25 @@
+
+Para cargar un registro elija la opcion 2 del menu principal.
+
+Inmediatamente despues de elegir la opcion debera de cargar distintos campos.
+Los campos tienen ciertas restricciones para la carga de datos. Las mismas son especificadas
+a continuacion. En el caso de los nombres, si sobrepasa el limite de caracteres, los mismos
+seran truncados a la maxima longitud permitida. 
+
+--------------------------------------------------------------------------------------------
+
+[NOMBRE]                 >>> [Cant. Max. Caracteres  { 15 } ]
+[APELLIDO]               >>> [Cant. Max. Caracteres  { 15 } ]
+[DNI]                    >>> [Rango permitido {1.000.000 ; 100.000.000} ]
+[ESTADO CIVIL]           >>> [Opc. Validas { Soltero/a, Casado/a, Divorciado/a, Separado/a ]
+[DIRECCION]              >>> [Cant. Max. Caracteres  { 23 } ]
+[FECHA DE NACIMIENTO]    >>> [Formato de Entrada {AAAA:MM:DD} ]
+
+--------------------------------------------------------------------------------------------
+          
+Al finalizar todos los campos, se guardaran los datos en una base de datos y podra volver al
+menu principal con la tecla ESC.
+
+
+
+                      >> [Presione ESC para volver al menu principal] <<

@@ -1,0 +1,25 @@
+
+Los datos que se hayan eliminado pueden ser recuperados utilizando la opcion 4 del menu
+principal. Cuando se ingrese a este apartado se le mostrara una lista completa de todos los
+registros que se hayan eliminado recientemente.
+
+Para recuperar un dato se le solicitara el dni correspondiente al dato que desea restablecer
+
+--------------------------------------------------------------------------------------------
+NOTA: Si ingresa el numero "0" en el campo DNI: podra cancelar la operacion y regresar
+inmediatamente al menu principal.
+--------------------------------------------------------------------------------------------
+
+Si el dato existe, el programa pedira confirmacion del usuario para restablecer el registro.
+De lo contrario, el programa le mostrara un mensaje en pantalla diciendo que el dato es
+inexistente y debera de regresar al menu principal pulsando la tecla ESC.
+
+Si cancela la operacion, puede regresar al menu principal con la tecla ESC..
+
+
+
+
+
+
+
+                      >> [Presione ESC para volver al menu principal] <<
